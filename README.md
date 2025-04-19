@@ -1,5 +1,5 @@
 
-# Dis Hekimi Randevu ve Hasta Kayıt Sistemi
+# Diş Hekimi Randevu ve Hasta Kayıt Sistemi
 
 Bu proje, Tkinter ile gelistirilmiş bir hasta ve randevu takip sistemidir. Kayıt alma, listeleme ve filtreleme yapabilirsiniz.
 
