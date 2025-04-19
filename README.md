@@ -1,18 +1,19 @@
 
-# Dis Hekimi Randevu ve Hasta Kayit Sistemi
+# Dis Hekimi Randevu ve Hasta Kayıt Sistemi
 
-Bu proje, Tkinter ile gelistirilmis bir hasta ve randevu takip sistemidir. Kayit alma, listeleme ve filtreleme yapabilirsiniz.
+Bu proje, Tkinter ile gelistirilmiş bir hasta ve randevu takip sistemidir. Kayıt alma, listeleme ve filtreleme yapabilirsiniz.
 
 ## Dosyalar
 
-- main.py — Arayuz uygulamasi
-- veritabani.py — Veritabani fonksiyonlari
-- veriler.csv — Randevu kayitlarinin tutuldugu dosya (otomatik olusur)
+- main.py — Arayüz uygulaması
+- veritabani.py — Veritabani fonksiyonları
+- veriler.csv — Randevu kayıtlarının tutulduğu dosya (otomatik oluşur)
 
 ## Calistirma
 
-1. Python 3 ve pandas yüklü oldugundan emin olun.
-2. Terminalde:
+1. Pandas'ın yüklü oldugundan emin olun.
+2. Yüklü değilse terminalde:
    pip install pandas
-3. Ardindan:
-   python main.py
+   kodunu yazarak yükle
+4. Ardından:
+   python main.py dosyasını çalıştır
